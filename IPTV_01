@@ -1,12 +1,5 @@
 #EXTM3U
-#EXTINF:0 group-title="IN: Movie",IN: ASIANET MOVIES 
-http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/4926.ts
-#EXTINF:0 group-title="IN: Movie",IN: B4U MOVIES 
-http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/5013.ts
-#EXTINF:0 group-title="IN: Movie",IN: CINE VOICE 
-http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
-#EXTINF:0 group-title="IN: Movie",IN: TELUGU GEMINI MOVIES 
-http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/13903.ts
+
 #EXTINF:0 group-title="XXX: Adult",XXX: 1000 
 http://vs305.vcdn.biz/6c68f34cc38d57c81435758934007144_megogo/vod/fs/o/40353161/p/CUPERTINO/b/450_900_1350_2000/u_sid/conmjap8ruoianbt47lggkibh5/u_uid/0/u_vod/3/u_device/html5/g/ru/a/0/type.amlst/chunklist-b2000000.m3u8
 #EXTINF:0 group-title="XXX: Adult",XXX: 13 2010 18 
