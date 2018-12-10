@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,Freedailyiptv.com_1
 http://formen1.com:8080/arslan/123456/16240
-#EXTINF:0,Freedailyiptv.com_2
+#EXTINF:0Freedailyiptv.com_2
 http://formen1.com:8080/arslan/123456/16239
 #EXTINF:0,Freedailyiptv.com_3
 http://formen1.com:8080/arslan/123456/16238
@@ -483,9 +483,7 @@ http://formen1.com:8080/movie/arslan/123456/14727.mp4
 http://formen1.com:8080/movie/arslan/123456/15229.mp4
 #EXTINF:0,ADULT VOD 249
 http://formen1.com:8080/movie/arslan/123456/14997.mp4
-#EXTINF:0,ADULT VOD 251
-http://formen1.com:8080/movie/arslan/123456/15228.mp4
-#EXTINF:0,ADULT VOD 253
+#EXTINF:0ADULT VOD 251
 http://formen1.com:8080/movie/arslan/123456/14789.mp4
 #EXTINF:0,ADULT VOD 258
 http://formen1.com:8080/movie/arslan/123456/15145.mp4
